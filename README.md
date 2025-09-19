@@ -9,6 +9,7 @@ In this section, we will cover:
 3.  Implement a MY-first-Startup-Script and test its execution.
 
 # Step-02: Create VM Instance
+Instance-level startup script – configured for an individual VM. Only that specific VM executes the script during its startup process.
 - Enable `Google Compute Engine`
 - Go to Virtual Machines -> VM Instances -> Create Instance -> New VM Instance -> Provide required details
 - **Name:** my-first-startup-script
